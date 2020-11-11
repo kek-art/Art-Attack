@@ -1,5 +1,5 @@
 ## Art and Society 
-![alt text](http://url/to/img.png)
+![logo](https://github.com/kek-art/Art-Attack/blob/main/logo.png)
 ## Welcome 
 This is my project on the impact of artists in society. 
 
