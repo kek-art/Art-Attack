@@ -1,8 +1,9 @@
-## Art-Attack ![image](https://github.com/kek-art/Art-Attack/blob/main/logo.png)
+# Art-Attack 
 
+What are the effects of more formal artists in a community? Read on to find out. 
 
+[image] (https://www.flintside.com/galleries/mural_collage.jpg)
 
-This is my project on the impact of artists in society. 
 
 # Executive Summary
 ## Background 
