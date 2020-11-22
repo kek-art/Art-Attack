@@ -3,7 +3,7 @@
 ![image](https://www.flintside.com/galleries/mural_collage.jpg)
 
 ## Projects 
-[link] <https//github.com?kek-art/Art-Attack/projects/> 
+
 
 ### Violent Crime Visualizations
 
