@@ -2,8 +2,8 @@
 
 ![image](https://www.flintside.com/galleries/mural_collage.jpg)
 
-## Introduction
-What community drivers lead to more formal artists in the economy? 
+## Projects 
+[link] ( https//github.com?kek-art/Art-Attack/projects/) 
 
 ### Violent Crime Visualizations
 
