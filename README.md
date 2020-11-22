@@ -3,7 +3,7 @@
 ![image](https://www.flintside.com/galleries/mural_collage.jpg)
 
 ## Projects 
-
+Art and Violent Crime 
 
 ### Violent Crime Visualizations
 
