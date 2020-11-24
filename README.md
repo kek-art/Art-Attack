@@ -6,7 +6,7 @@
 ## [Art and Violent Crime] (https://github.com/kek-art/Econ_project-.git) 
 
 # Blog
-## [ Assignment 3] (
+## [ Assignment 3] (https://github.com/kek-art/art.git) 
 
 ### Problem Statement 
 Proponents of art claim that it has several intangible benefits for communities invest in it. They claim art has the power to “transform minds, boost civic pride, improve mental and emotional wellbeing and instill hope in all citizens.”  But do these intangible effects actually translate into quantitative measures? 
