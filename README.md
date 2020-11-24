@@ -3,7 +3,7 @@
 ![image](https://www.flintside.com/galleries/mural_collage.jpg)
 
 # Projects 
-## [Art and Violent Crime] (https://github.com/kek-art/Econ_project-.git) 
+## [Art and Violent Crime] ( https://kek-art.github.io/Econ_project-/.)
 
 # Blog
 ## [ Assignment 3] (https://github.com/kek-art/art.git) 
