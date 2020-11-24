@@ -3,7 +3,10 @@
 ![image](https://www.flintside.com/galleries/mural_collage.jpg)
 
 # Projects 
-## Art and Violent Crime 
+## [Art and Violent Crime] (
+
+# Blog
+## [ Assignment 3] (
 
 ### Problem Statement 
 Proponents of art claim that it has several intangible benefits for communities invest in it. They claim art has the power to “transform minds, boost civic pride, improve mental and emotional wellbeing and instill hope in all citizens.”  But do these intangible effects actually translate into quantitative measures? 
